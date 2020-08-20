@@ -1,32 +1,19 @@
-<p align="center"> <img src="https://ghcdn.rawgit.org/Blugin/IgnoreCase-PMMP/master/icon.png" width="360"> </p>
-<br> <h1 align="center"> IgnoreCase :: 대소문자 신경 쓰지말고 명령어를 사용하세요! </h1>
+<p align="center"> <img src="https://ghcdn.rawgit.org/Blugin/IgnoreCase-PMMP/master/icon.png" width="360"> </p>  
+
+# IgnoreCase  
+### 대소문자 신경 쓰지말고 명령어를 사용하세요!  
 <p align="right">  
   <a href="https://github.com/Blugin/IgnoreCase-PMMP/blob/master/README.md">  
     <img src="https://img.shields.io/static/v1?label=read%20in&message=English&color=success">
   </a>  
 </p>  
-<p align="center">  
-  <a href="https://poggit.pmmp.io/ci/Blugin/IgnoreCase-PMMP/IgnoreCase">  
-    <img src="https://poggit.pmmp.io/ci.shield/Blugin/IgnoreCase-PMMP/IgnoreCase?style=flat-square">  
-  </a>  
-  <a href="https://github.com/Blugin/IgnoreCase-PMMP/releases">  
-    <img src="https://img.shields.io/github/release/Blugin/IgnoreCase-PMMP.svg?style=flat-square">  
-  </a>  
-  <a href="https://github.com/Blugin/IgnoreCase-PMMP/releases">  
-    <img src="https://img.shields.io/github/downloads/Blugin/IgnoreCase-PMMP/total.svg?style=flat-square">  
-  </a>  
-  </a>  
-  <a href="https://github.com/Blugin/IgnoreCase-PMMP/blob/master/LICENSE">  
-    <img src="https://img.shields.io/github/license/Blugin/IgnoreCase-PMMP.svg?style=flat-square">  
-  </a>  
-  <a href="http://hits.dwyl.com/Blugin/IgnoreCase-PMMP">  
-    <img src="http://hits.dwyl.com/Blugin/IgnoreCase-PMMP.svg"> 
-  </a>  
-  <strong>
-  <br> ✔️ 명령어의 대소 문자가 틀리면 자동으로 수정됩니다!   
-  <br> ✔️ 이제 대소문자 신경쓰지 마세요!  
-  </strong>
-</p>  
+    
+[![poggit-build](https://poggit.pmmp.io/ci.shield/Blugin/IgnoreCase-PMMP/IgnoreCase?style=flat-square)](https://poggit.pmmp.io/ci/Blugin/IgnoreCase-PMMP/IgnoreCase)
+[![license](https://img.shields.io/github/license/Blugin/IgnoreCase-PMMP.svg?style=flat-square)](https://github.com/Blugin/IgnoreCase-PMMP/blob/master/LICENSE)
+[![hits](http://hits.dwyl.com/Blugin/IgnoreCase-PMMP.svg)](http://hits.dwyl.com/Blugin/IgnoreCase-PMMP)
+  
+✔️ 명령어의 대소 문자가 틀리면 자동으로 수정됩니다!   
+✔️ 이제 대소문자 신경쓰지 마세요!  
   
 <br>  
   
