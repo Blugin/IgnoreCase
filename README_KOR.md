@@ -39,19 +39,9 @@
 <br>  
   
 ## :wrench: 설치
-1) 릴리즈 페이지에서 `.phar`을 다운로드하세요
-2) 다운로드한 `.phar`파일을 서버의 **/plugins/** 폴더에 넣으세요  
-3) 서버를 다시 시작하거나, `/reload` 명령어를 실행하세요    
-  
-<br>  
-  
-## :package: 다운로드  
-  
-| Version | Phar Download | Updates Note |  
-| :-----: | :-----------: | :----------: |    
-| 1.1.0 | [GitHub](https://github.com/Blugin/IgnoreCase-PMMP/releases/download/1.1.0/IgnoreCase_v1.1.0.phar) | **플러그인 게시 (플러그인 기능 구현)** |  
-  
-> **모든 출시 버전은 [여기](https://github.com/Blugin/IgnoreCase-PMMP/releases) 에서 확인할 수 있습니다**  
+1) [Poggit](https://poggit.pmmp.io/ci/Blugin/ChatThin-PMMP/ChatThin) 에서 `.phar`을  받으세요  
+2) 다운받은 `.phar`파일을 당신의 서버의 **/plugins/** 폴더에 넣으세요  
+3) 서버를 재시작하세요 (혹은 `/reload` 명령어를 실행하세요)  
   
 <br>  
   

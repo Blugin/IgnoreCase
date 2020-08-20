@@ -40,21 +40,11 @@
 <br>  
   
 ## :wrench: Installation
-1) Download `.phar` from releases  
-2) Move dowloaded `.phar` file to server's **/plugins/** folder  
-3) Restart the server or execute `/reload` command  
-
+1) Download `.phar` from [poggit](https://poggit.pmmp.io/ci/Blugin/ChatThin-PMMP/ChatThin)  
+2) Move dowloaded `.phar` file to your server's **/plugins/** folder  
+3) Restart the server (or execute `/reload` command)  
+  
 <br>  
-  
-## :package: Downloads  
-  
-| Version | Phar Download | Updates Note |  
-| :-----: | :-----------: | :----------: |    
-| 1.1.0 | [GitHub](https://github.com/Blugin/IgnoreCase-PMMP/releases/download/1.1.0/IgnoreCase_v1.1.0.phar)  | **Init plugin (Implements plugin features)** |  
-  
-> **All released versions [here](https://github.com/Blugin/IgnoreCase-PMMP/releases)**  
-  
-<br>   
   
 ## :memo: License  
 > You can check out the full license [here](https://github.com/Blugin/IgnoreCase-PMMP/blob/master/LICENSE)  
